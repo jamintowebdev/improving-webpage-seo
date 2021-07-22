@@ -17,3 +17,11 @@ body {
     width: 650px;
 }
 
+.note-bg-color {
+    color: black;
+    background: #f7bf83;
+    border: 2px solid tomato;
+    padding: 20px;
+    border-radius: 10px;
+    width: 650px;
+}
