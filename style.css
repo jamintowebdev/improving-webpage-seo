@@ -8,7 +8,7 @@ body {
     padding: 30px;
 }
 
-.para3 {
+.para-codebox {
     color: white;
     background: black;
     border: 2px solid tomato;
@@ -17,11 +17,3 @@ body {
     width: 650px;
 }
 
-.para8_1 {
-    color: white;
-    background: black;
-    border: 2px solid tomato;
-    padding: 20px;
-    border-radius: 10px;
-    width: 650px;
-}
